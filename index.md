@@ -2,7 +2,6 @@
 
 This is the LLA Team download site
 
-page still under construction
+site still under construction
 
-## Downloads Click Below
-downloads.llateam.tk/downloads
+## [Downloads Click Here](downloads.llateam.tk)
