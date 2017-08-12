@@ -4,4 +4,4 @@ This is the LLA Team download site
 
 site still under construction
 
-## [Downloads Click Here](downloads.llateam.tk)
+## [Downloads Click Here](downloads)
