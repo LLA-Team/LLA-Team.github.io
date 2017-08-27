@@ -3,4 +3,4 @@ theme: jekyll-theme-architect
 plugins:
   - jekyll-sitemap
 
-permalink: /404.html
+permalink: /404.md
