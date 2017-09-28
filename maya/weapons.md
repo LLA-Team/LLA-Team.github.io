@@ -1,1 +1,7 @@
-## Weapons
+## Spear
+
+## Blow Gun
+
+## Bow and Arrow
+
+## Sling
