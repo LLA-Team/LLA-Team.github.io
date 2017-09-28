@@ -1,4 +1,4 @@
-#// Mayan Math
+#//Mayan Math
 
 
 Maya math was the most sophisticated number system ever developed in the Americas. It allowed scholars, astronomers, and architects to make complex calculations, but it was simple enough to be used by market traders and illiterate farmers.
