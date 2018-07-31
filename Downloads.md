@@ -1,4 +1,4 @@
-## Minecraft Free
+# Minetest
 
 ## [Windows](https://github.com/minetest/minetest/releases/download/0.4.16/minetest-0.4.16-win32-mingw.zip)
 
