@@ -10,8 +10,8 @@
   "url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8",
 
 },
-"language":{
-  "en-US"
+{
+"language":"en-US"
 },
 "thumbnail":"http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg",
 "brandedThumbnail":"http://www.catherinehall.net/wp-content/uploads/2015/01/twit-1.jpg",
