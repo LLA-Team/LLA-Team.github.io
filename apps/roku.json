@@ -2,6 +2,13 @@
 	"providerName": "TWiT.TV",
 	"lastUpdated": "2018-07-24T11:14:37+08:00",
 	"language": "en-US",
+  "categories": [
+    {
+      "name": "Featured",
+      "query": "featured",
+      "order": "orderchronological"
+    }
+  ],
 	"liveFeeds": [
 		[{
 				"id": "1509428502953"
