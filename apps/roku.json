@@ -15,7 +15,7 @@
           "captions": [],
           "videos": [
             {
-              "url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8",
+              "url": "https://mixer.com/api/v1/channels/39385369/manifest",
               "quality": "HD",
               "videoType": "HLS"
             }
