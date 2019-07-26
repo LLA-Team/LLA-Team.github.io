@@ -11,8 +11,16 @@
 			},
 			{
 				"content": {
-					"url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8"
-
+          "dateAdded": "2018-07-24T11:14:37+08:00",
+          "captions": [],
+          "videos": [
+            {
+              "url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8",
+              "quality": "HD",
+              "videoType": "HLS"
+            }
+          ],
+          "duration": 230
 				}
 			},
 			{
