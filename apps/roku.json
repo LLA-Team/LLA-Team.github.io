@@ -1,29 +1,36 @@
 {
-    "providerName": "TWiT.TV",
-    "lastUpdated": "2018-07-24T11:14:37+08:00",
-    "language": "en-US",
-    "liveFeeds": [
-{
-    "id":"1509428502953",
-"title":"TWiT Live",
-"content":{
-  "url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8"
+	"providerName": "TWiT.TV",
+	"lastUpdated": "2018-07-24T11:14:37+08:00",
+	"language": "en-US",
+	"liveFeeds": [
+		[{
+				"id": "1509428502953"
+			},
+			{
+				"title": "TWiT Live"
+			},
+			{
+				"content": {
+					"url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8"
 
-}
-{
-"language":"en-US",
-}
-{
-"thumbnail":"http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg"
-}
-{
-"brandedThumbnail":"http://www.catherinehall.net/wp-content/uploads/2015/01/twit-1.jpg"
-}
-{
-"shortDescription":"Leo Laporte and friends."
-}
-{
-"longDescription":"Live from the TWiT Eastside Studios, non-stop technology news and conversation with Leo Laporte and friends.",
-}
+				}
+			},
+			{
+				"language": "en-US"
+			},
+			{
+				"thumbnail": "http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg"
+			},
+			{
+				"brandedThumbnail": "http://www.catherinehall.net/wp-content/uploads/2015/01/twit-1.jpg"
+			},
+			{
+				"shortDescription": "Leo Laporte and friends."
+			},
+			{
+				"longDescription": "Live from the TWiT Eastside Studios, non-stop technology news and conversation with Leo Laporte and friends."
+			}
 
-},
+		]
+	]
+}
