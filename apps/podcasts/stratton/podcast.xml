@@ -62,5 +62,17 @@
                 <enclosure
                   url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson10p1.mp3" type="audio/mpeg" length="18151199"/>
                 </item>
+                <item>
+                  <guid>459dde77-e36d-4518-8b28-9998e0e819c3</guid>
+                  <title>Lesson 10: Styling Text with CSS Part 2 </title>
+                  <description>
+                    Part 2 of styling text with CSS on code.org
+                  </description>
+                  <pubDate> Thu, 19 Mar 2020 9:00:00 -0800</pubDate>
+                  <itunes:order>5</itunes:order>
+                  <itunes:duration>7:43</itunes:duration>
+                  <enclosure
+                    url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson10p2.mp3" type="audio/mpeg" length="18523259"/>
+                  </item>
         </channel>
       </rss>
