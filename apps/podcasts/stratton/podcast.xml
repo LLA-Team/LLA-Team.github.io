@@ -6,9 +6,8 @@
         Here you can find all of the lessons for 8th Grade Technology with Mrs. Stratton.
       </description>
       <language>en</language>
-      <itunes:owner>
-        <itunes:name>Maria Stratton</itunes:name>
-        <itunes:email>crege7@gmail.com</itunes:email>
+      <itunes:author>Maria Stratton</itunes:author>
+      <itunes:email>crege7@gmail.com</itunes:email>
       </itunes:owner>
       <itunes:category text="Education"/>
       <itunes:type>serial</itunes:type>
