@@ -74,5 +74,17 @@
                   <enclosure
                     url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson10p2.mp3" type="audio/mpeg" length="18523259"/>
                   </item>
+                  <item>
+                    <guid>0cc53905-29cf-4f61-92eb-a26234fbbf1c</guid>
+                    <title>Lesson 11: Styling Elements with CSS Part 2 </title>
+                    <description>
+                      Mrs. Stratton explains how to style elements with CSS on code.org
+                    </description>
+                    <pubDate> Thu, 19 Mar 2020 9:00:00 -0800</pubDate>
+                    <itunes:order>6</itunes:order>
+                    <itunes:duration>13:16</itunes:duration>
+                    <enclosure
+                      url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson11.mp3" type="audio/mpeg" length="31856178"/>
+                    </item>
         </channel>
       </rss>
