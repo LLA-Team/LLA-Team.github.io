@@ -20,7 +20,7 @@
           <description>
             A quick instruction on how to do Lesson 8 on code.org
           </description>
-          <pubDate> Sun, 15 Mar 2020 10:52:00 +0800</pubDate>
+          <pubDate> Sun, 15 Mar 2020 10:52:00 -0800</pubDate>
           <itunes:order>1</itunes:order>
           <itunes:duration>5:00</itunes:duration>
           <enclosure
@@ -32,7 +32,7 @@
             <description>
               Part 1 of working with Multi-Page Websites on code.org
             </description>
-            <pubDate> Tue, 17 Mar 2020 7:35:00 +0800</pubDate>
+            <pubDate> Tue, 17 Mar 2020 7:35:00 -0800</pubDate>
             <itunes:order>2</itunes:order>
             <itunes:duration>7:38</itunes:duration>
             <enclosure
@@ -44,7 +44,7 @@
               <description>
                 Part 2 of working with Multi-Page Websites on code.org
               </description>
-              <pubDate> Tue, 17 Mar 2020 7:21:00 +0800</pubDate>
+              <pubDate> Tue, 17 Mar 2020 7:21:00 -0800</pubDate>
               <itunes:order>3</itunes:order>
               <itunes:duration>18:01</itunes:duration>
               <enclosure
@@ -56,7 +56,7 @@
                 <description>
                   Part 1 of styling text with CSS on code.org
                 </description>
-                <pubDate> Thu, 19 Mar 2020 9:00:00 +0800</pubDate>
+                <pubDate> Thu, 19 Mar 2020 9:00:00 -0800</pubDate>
                 <itunes:order>4</itunes:order>
                 <itunes:duration>7:33</itunes:duration>
                 <enclosure
