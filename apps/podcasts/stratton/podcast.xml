@@ -38,5 +38,17 @@
             <enclosure
               url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson9p1.mp3" type="audio/mpeg" length="7334765"/>
             </item>
+            <item>
+              <guid>1267a4f1-9dca-4b9b-8d60-a001613421dc</guid>
+              <title>Lesson 9: Multi-Page Websites Part 2 </title>
+              <description>
+                Part 2 of working with Multi-Page Websites on code.org
+              </description>
+              <pubDate> Tue, 17 Mar 2020 7:21:00 +0800</pubDate>
+              <itunes:order>3</itunes:order>
+              <itunes:duration>18:01</itunes:duration>
+              <enclosure
+                url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson9p2.mp3" type="audio/mpeg" length="17308943"/>
+              </item>
         </channel>
       </rss>
