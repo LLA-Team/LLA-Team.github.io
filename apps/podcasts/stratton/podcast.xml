@@ -20,7 +20,7 @@
           <itunes:order>1</itunes:order>
           <itunes:duration>5:00</itunes:duration>
           <enclosure
-            url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson8.mp3" type="audio/mpeg" length"4801933"/>
+            url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson8.mp3" type="audio/mpeg" length="4801933"/>
           </item>
         </channel>
       </rss>
