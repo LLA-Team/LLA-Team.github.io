@@ -86,5 +86,17 @@
                     <enclosure
                       url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson11.mp3" type="audio/mpeg" length="31856178"/>
                     </item>
+                    <item>
+                      <guid>7e4f5219-674d-4a38-bd10-d99b0de5f711</guid>
+                      <title>Lesson 13: RGB Colors and Classes Part 1</title>
+                      <description>
+                        Part 1 of RGB Colors and Classes Part 1
+                      </description>
+                      <pubDate> Thu, 19 Mar 2020 9:00:00 -0800</pubDate>
+                      <itunes:order>7</itunes:order>
+                      <itunes:duration>4:47</itunes:duration>
+                      <enclosure
+                        url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson13p1.mp3" type="audio/mpeg" length="11498334"/>
+                      </item>
         </channel>
       </rss>
