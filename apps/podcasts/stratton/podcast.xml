@@ -7,7 +7,10 @@
       </description>
       <language>en</language>
       <itunes:author>Maria Stratton</itunes:author>
-      <itunes:email>crege7@gmail.com</itunes:email>
+      <itunes:owner>
+        <itunes:email>crege7@gmail.com</itunes:email>
+      </itunes:owner>
+      <managingEditor>crege7@gmail.com</managingEditor>
       <itunes:category text="Education"/>
       <itunes:type>serial</itunes:type>
       <itunes:image href="https://downloads.llateam.tk/pics/Stratton.png"/>
