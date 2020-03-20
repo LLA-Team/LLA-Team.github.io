@@ -19,7 +19,7 @@
           <pubDate> Thu, 8 Mar 2020 10:52:00 +0800</pubDate>
           <itunes:order>1</itunes:order>
           <itunes:duration>5:00</itunes:duration>
-          <enclosure>
+          <enclosure
             url="https://downloads.llateam.tk/apps/podcasts/stratton/Lesson8.mp3" type="audio/mpeg" length"4801933"/>
           </item>
         </channel>
