@@ -25,7 +25,10 @@
 			"thumbnail": "http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg",
 			"brandedThumbnail": "http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg",
 			"shortDescription": "TWiT Live",
-			"longDescription": "Leo Laporte and Friends"
+			"longDescription": "Leo Laporte and Friends",
+			"tags":[
+				"live"
+			]
 		}
 	]
 
