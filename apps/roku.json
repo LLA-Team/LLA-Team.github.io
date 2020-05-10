@@ -1,8 +1,8 @@
 {
 	"providerName": "TWiT TV",
-	"lastUpdated": "2019-07-24T11:14:37+08:00",
+	"lastUpdated": "2020-04-09T11:14:37+08:00",
 	"language": "en-US",
-	"tvSpecials": [
+	"liveFeeds": [
 		{
 			"id": "1",
 			"title": "TWiT Live",
@@ -10,12 +10,12 @@
 				"dateAdded": "2019-07-24T11:14:37+08:00",
 				"videos": [
 					{
-						"url": "https://mixer.com/api/v1/channels/39385369/manifest.m3u8",
+						"url": "https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CqUDo6HZxNXZ_pcs4hYpK1oveNwayD_jwPjYpY0q9PXKpcYlyGxRVLn39AU8FagAn_l_PJaPkL-tzJKnc-4iYwJgQFyqp_RTvPLgsD-u8PFVjO4_6586u4ZcYOCMtlnBLDanhJ5X6lMn1jftHKOZQFYzpOXswQ8njgmwfKIAyALKHQ_1jrNXsuerm8ryEer4nMD0yU1ToG5v-POkCXf3iGpiLahSvt21-rYochC1E5MHpoD9DwUPOECEXZGZ0CypcIQ59cqPM4uqIgfS8-Q74du0DebhN00HmyC0nttL5jRS7p3FHPm-lCaHqsSC2h0rz1FEa3MBAhUzYW5IUJ0ihEoPbYMQABELMVmkY2Iut1So6eHhPClGZQi4rb3e7Syl_exviHl0LK_FI5tczUl7xIGlNYa0iWrMvz7qrkre62uURnTyYTY346DlggvVB1AgB1TDvEugVEYOpBiMQ4FGgTgZhEjnGwfFEH3I6F5f7xkfdz0KgUgNpcWZQLCy03B6BGX95jFqJRCLsCvNnrPtA3ptFA0803dzcymJz8LoHe-KrhvwK2h_0BIQ0G7wXrhS6IJJsJYwRfLcsxoMIn5p4bkAAj4XZfwb.m3u8",
 						"quality": "HD",
 						"videoType": "HLS"
 					}
 				],
-				"duration": "230",
+				"duration": "0",
 				"captions":[],
 				"trickPlayFiles":[],
 				"language": "en-US"
@@ -23,7 +23,9 @@
 			"genres": "technology",
 			"releaseDate": "2019-07-24T11:14:37+08:00",
 			"thumbnail": "http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg",
-			"shortDescription": "Leo Laporte and Friends"
+			"brandedThumbnail": "http://wscont2.apps.microsoft.com/winstore/1x/28171f76-c90b-4427-b3ef-df7d96d7bea0/Screenshot.288895.1000003.jpg",
+			"shortDescription": "TWiT Live",
+			"longDescription": "Leo Laporte and Friends"
 		}
 	]
 
